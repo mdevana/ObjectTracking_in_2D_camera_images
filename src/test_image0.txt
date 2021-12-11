@@ -1,0 +1,3068 @@
+#1 : Using Detector : HARRIS Descriptor :BRISKprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!17
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 0.527747 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!15
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.41092 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!19
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.56523 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!19
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.43669 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!25
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.49439 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!46
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.7447 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!16
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.40038 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!29
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.58505 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!25
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.48897 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!32
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.57008 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : HARRIS Descriptor :ORBprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!17
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.55316 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!15
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.2813 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!19
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.23192 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!19
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.44702 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!25
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.44331 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!46
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.44284 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!16
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.37365 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!29
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.23266 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!25
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.28011 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!32
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.6175 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : HARRIS Descriptor :FREAKprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!17
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 49.0476 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!15
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 45.8621 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!19
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 45.9678 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!19
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 50.1298 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!25
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.3245 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!46
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.4988 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!16
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.0469 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!29
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.5379 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!25
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 49.3818 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!32
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 45.7594 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : HARRIS Descriptor :AKAZEskipping
+#1 : Using Detector : HARRIS Descriptor :SIFTprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!17
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 17.4696 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!15
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 15.6959 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!19
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 15.1109 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!19
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 15.8296 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!25
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 15.7554 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!46
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 16.5434 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!16
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.5845 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!29
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 15.8413 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!25
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 15.6226 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+ NOTE: Keypoints Restricted to box of preceding vehicle!32
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.9866 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : SHITOMASI Descriptor :BRISKprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 17.3798 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!122
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.61275 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 12.7404 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.54535 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 13.5368 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!122
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.66844 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 12.3067 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.59725 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 12.4714 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!115
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.64399 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 12.3789 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!112
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.54691 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 12.2504 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!112
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.49692 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 12.335 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!120
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.62509 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 12.1092 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!111
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.49621 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 12.7465 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!108
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.4928 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : SHITOMASI Descriptor :ORBprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 12.1725 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!122
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.43708 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 12.0577 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.52343 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 12.4117 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!122
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.58861 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 12.0288 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.40564 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 12.3003 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!115
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.51995 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 12.2523 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!112
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.42066 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 11.9998 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!112
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.39868 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 11.8145 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!120
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.45865 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 11.6668 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!111
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.34084 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 11.9892 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!108
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.40255 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : SHITOMASI Descriptor :FREAKprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 11.6782 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!122
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.2869 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 12.5285 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.114 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 12.3054 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!122
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.1783 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 12.2495 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.0559 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 12.3805 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!115
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.6876 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 12.0619 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!112
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.2696 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 12.3565 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!112
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.2765 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 12.3385 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!120
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.8891 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 12.8904 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!111
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.9064 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 12.0155 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!108
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.8321 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : SHITOMASI Descriptor :AKAZEskipping
+#1 : Using Detector : SHITOMASI Descriptor :SIFTprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 12.3524 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!122
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 17.265 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 12.6 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 16.6985 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 12.0795 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!122
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 16.5589 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 18.2186 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 16.842 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 12.5931 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!115
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 17.6271 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 12.4546 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!112
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 16.2774 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 11.8789 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!112
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 16.0583 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 12.1574 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!120
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 16.2522 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 12.4636 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!111
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 16.23 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 18.3192 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!108
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 17.285 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : FAST Descriptor :BRISKprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1824 keypoints in 1.35734 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!141
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.91559 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1832 keypoints in 1.38351 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!143
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.79469 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1810 keypoints in 1.25551 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!140
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.63576 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1817 keypoints in 1.2981 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!149
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.60938 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1793 keypoints in 1.31037 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!139
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.8933 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1796 keypoints in 1.307 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!139
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.83632 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1788 keypoints in 1.15529 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!153
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.94187 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1695 keypoints in 1.21012 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!142
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.82761 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1749 keypoints in 1.31733 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!131
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.69464 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1770 keypoints in 1.35167 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!135
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.73133 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : FAST Descriptor :ORBprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1824 keypoints in 1.30108 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!141
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.55204 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1832 keypoints in 1.27509 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!143
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.57456 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1810 keypoints in 1.22872 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!140
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.65483 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1817 keypoints in 1.32653 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!149
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.64761 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1793 keypoints in 1.29104 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!139
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.61702 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1796 keypoints in 1.32523 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!139
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.65034 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1788 keypoints in 1.33902 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!153
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.59223 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1695 keypoints in 1.23476 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!142
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.53554 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1749 keypoints in 1.30171 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!131
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.516 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1770 keypoints in 1.32768 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!135
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.41628 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : FAST Descriptor :FREAKprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1824 keypoints in 1.30504 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!141
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.3156 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1832 keypoints in 1.24433 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!143
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.8856 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1810 keypoints in 1.2839 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!140
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 52.2538 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1817 keypoints in 1.2634 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!149
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.4724 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1793 keypoints in 1.28985 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!139
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.8709 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1796 keypoints in 1.32383 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!139
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.8352 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1788 keypoints in 1.2677 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!153
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 51.6711 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1695 keypoints in 1.24351 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!142
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.2821 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1749 keypoints in 1.30323 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!131
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.8917 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1770 keypoints in 1.26144 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!135
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.2514 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : FAST Descriptor :AKAZEskipping
+#1 : Using Detector : FAST Descriptor :SIFTprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1824 keypoints in 1.30579 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!141
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 24.7412 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1832 keypoints in 1.26143 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!143
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 25.6513 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1810 keypoints in 1.31631 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!140
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 25.4372 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1817 keypoints in 1.33111 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!149
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 25.7671 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1793 keypoints in 1.20038 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!139
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 35.6326 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1796 keypoints in 1.29209 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!139
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 24.5088 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1788 keypoints in 1.2852 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!153
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 25.2868 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1695 keypoints in 1.23871 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!142
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 23.6035 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1749 keypoints in 1.28786 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!131
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 25.2216 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=1770 keypoints in 1.268 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!135
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 23.9657 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : BRISK Descriptor :BRISKprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2757 keypoints in 425.662 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!254
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.09112 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2777 keypoints in 424.227 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!274
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.31138 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2741 keypoints in 424.948 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!276
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.28656 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2735 keypoints in 427.759 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!275
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.32679 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2757 keypoints in 427.599 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!293
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.56663 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2695 keypoints in 427.758 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!275
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.36175 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2715 keypoints in 424.308 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!289
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.48784 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2628 keypoints in 424.024 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!268
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.33825 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2639 keypoints in 427.554 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!258
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.16387 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2672 keypoints in 425.775 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!249
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.14143 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : BRISK Descriptor :ORBprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2757 keypoints in 429.426 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!254
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.85064 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2777 keypoints in 428.413 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!274
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.76718 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2741 keypoints in 426.31 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!276
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.71765 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2735 keypoints in 429.8 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!275
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 7.01179 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2757 keypoints in 426.84 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!293
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.54056 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2695 keypoints in 428.378 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!275
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.52218 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2715 keypoints in 428.537 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!289
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 6.20259 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2628 keypoints in 428.303 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!268
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.73145 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2639 keypoints in 426.183 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!258
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.73418 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2672 keypoints in 429.049 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!249
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.74845 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : BRISK Descriptor :FREAKprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2757 keypoints in 427.308 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!254
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 50.8713 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2777 keypoints in 429.439 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!274
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 50.0804 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2741 keypoints in 430.653 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!276
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 48.0621 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2735 keypoints in 428.867 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!275
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 48.701 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2757 keypoints in 427.922 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!293
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 51.4454 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2695 keypoints in 426.632 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!275
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.8446 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2715 keypoints in 426.324 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!289
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 48.9249 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2628 keypoints in 425.226 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!268
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.9284 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2639 keypoints in 426.866 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!258
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 48.83 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2672 keypoints in 426.179 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!249
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.7312 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : BRISK Descriptor :AKAZEskipping
+#1 : Using Detector : BRISK Descriptor :SIFTprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2757 keypoints in 426.806 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!254
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 61.7253 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2777 keypoints in 428.765 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!274
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 59.9055 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2741 keypoints in 427.349 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!276
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 59.2232 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2735 keypoints in 428.265 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!275
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 63.4008 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2757 keypoints in 426.325 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!293
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 63.2266 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2695 keypoints in 425.546 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!275
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 61.7451 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2715 keypoints in 431.768 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!289
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 62.7173 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2628 keypoints in 427.938 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!268
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 60.549 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2639 keypoints in 425.814 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!258
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 60.1878 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2672 keypoints in 423.361 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!249
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 56.668 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : ORB Descriptor :BRISKprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 10.2909 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!87
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.29148 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 9.03499 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!101
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.42773 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.31844 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!105
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.45715 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.54936 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!110
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.58606 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 9.25551 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!106
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.58433 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.57805 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!121
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.64831 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.64389 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!128
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.76355 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.42938 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!120
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.60804 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.6823 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.62737 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.43034 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.62434 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : ORB Descriptor :ORBprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.67937 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!87
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.91551 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.65367 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!101
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.98959 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.80112 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!105
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 6.18672 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.68433 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!110
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.82781 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.86336 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!106
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.8609 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.46622 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!121
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.8203 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.56551 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!128
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 6.11908 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.4725 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!120
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.93196 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.50252 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.84927 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.58491 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.81689 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : ORB Descriptor :FREAKprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.508 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!87
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 49.4287 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.75658 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!101
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.3307 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.21432 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!105
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.7288 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.61067 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!110
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.9719 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.38904 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!106
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.3751 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.44648 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!121
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.2176 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.57827 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!128
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.6256 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.15226 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!120
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.3887 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.41584 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.4618 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.67822 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.5397 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : ORB Descriptor :AKAZEskipping
+#1 : Using Detector : ORB Descriptor :SIFTprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 9.69754 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!87
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 59.3731 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.19018 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!101
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 60.756 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.37899 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!105
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 66.5587 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.31158 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!110
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 68.3538 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.04255 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!106
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 61.7252 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.16756 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!121
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 65.7257 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.1861 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!128
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 72.2356 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.15885 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!120
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 68.036 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.41682 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 74.063 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=500 keypoints in 8.43985 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!117
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 67.4119 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : AKAZE Descriptor :BRISKprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1351 keypoints in 104.922 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!162
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.99504 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1327 keypoints in 104.892 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!157
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.95763 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1311 keypoints in 106.032 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!159
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.99662 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1351 keypoints in 105.342 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!154
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.03068 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1360 keypoints in 106.628 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!162
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.02041 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1347 keypoints in 105.092 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!163
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.04921 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1363 keypoints in 104.809 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!173
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.16935 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1331 keypoints in 105.48 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.2021 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1357 keypoints in 106.305 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.14512 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1331 keypoints in 103.35 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.15892 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : AKAZE Descriptor :ORBprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1351 keypoints in 104.971 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!162
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.96607 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1327 keypoints in 103.41 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!157
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.90676 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1311 keypoints in 103.671 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!159
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.0466 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1351 keypoints in 105.127 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!154
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.94611 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1360 keypoints in 103.517 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!162
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.9278 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1347 keypoints in 105.152 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!163
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.12759 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1363 keypoints in 106.12 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!173
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.86774 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1331 keypoints in 104.606 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.1445 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1357 keypoints in 106.088 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.93873 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1331 keypoints in 105.562 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.97848 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : AKAZE Descriptor :FREAKprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1351 keypoints in 105.647 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!162
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.9508 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1327 keypoints in 104.528 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!157
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.0964 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1311 keypoints in 106.575 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!159
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.0483 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1351 keypoints in 105.81 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!154
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.0388 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1360 keypoints in 105.451 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!162
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.1847 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1347 keypoints in 105.299 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!163
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.1816 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1363 keypoints in 108.507 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!173
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.5084 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1331 keypoints in 108.808 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.4115 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1357 keypoints in 104.493 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.8694 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1331 keypoints in 104.71 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.5477 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : AKAZE Descriptor :AKAZEprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1351 keypoints in 107.701 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!162
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 91.1555 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1327 keypoints in 97.3577 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!157
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 87.7496 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1311 keypoints in 98.8602 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!159
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 91.5977 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1351 keypoints in 108.369 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!154
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 104.093 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1360 keypoints in 93.6474 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!162
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 84.7237 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1347 keypoints in 93.7388 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!163
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 87.1487 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1363 keypoints in 97.6355 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!173
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 80.3199 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1331 keypoints in 96.1027 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 87.1014 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1357 keypoints in 97.4417 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 86.2007 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1331 keypoints in 111.654 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 81.5027 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : AKAZE Descriptor :SIFTprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1351 keypoints in 109.29 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!162
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 30.1897 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1327 keypoints in 94.7631 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!157
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 29.407 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1311 keypoints in 90.6987 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!159
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 29.3129 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1351 keypoints in 95.4744 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!154
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 29.1057 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1360 keypoints in 91.8417 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!162
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 30.2353 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1347 keypoints in 90.0312 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!163
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 30.4822 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1363 keypoints in 92.4486 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!173
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 31.1887 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1331 keypoints in 105.391 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 41.5404 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1357 keypoints in 107.64 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 41.2551 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n=1331 keypoints in 105.72 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!175
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 31.4934 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : SIFT Descriptor :BRISKprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1438 keypoints in 157.981 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!137
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.71278 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1371 keypoints in 157.21 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!131
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.68546 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1380 keypoints in 157.95 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!121
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.60471 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1335 keypoints in 158.798 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!135
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.82709 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1305 keypoints in 156.367 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!134
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.70217 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1370 keypoints in 157.318 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!139
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.78733 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1396 keypoints in 159.424 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!136
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.72476 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1382 keypoints in 157.989 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!147
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.88755 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1463 keypoints in 160.384 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!156
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.97948 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1422 keypoints in 157.899 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!135
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.82421 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : SIFT Descriptor :ORBskipping
+#1 : Using Detector : SIFT Descriptor :FREAKprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1438 keypoints in 151.65 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!137
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.9099 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1371 keypoints in 157.863 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!131
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 49.018 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1380 keypoints in 156.921 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!121
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.7108 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1335 keypoints in 156.536 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!135
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.1025 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1305 keypoints in 156.729 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!134
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.0726 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1370 keypoints in 163.3 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!139
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.7802 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1396 keypoints in 156.818 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!136
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.8676 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1382 keypoints in 155.878 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!147
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.0526 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1463 keypoints in 157.077 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!156
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.9355 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1422 keypoints in 160.287 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!135
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.3246 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_BINARY
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Using Detector : SIFT Descriptor :AKAZEskipping
+#1 : Using Detector : SIFT Descriptor :SIFTprocessing
+#1 : Size of Ring buffer1
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1438 keypoints in 156.421 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!137
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 82.0645 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1371 keypoints in 120.74 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!131
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 85.8664 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1380 keypoints in 120.594 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!121
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 80.4047 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1335 keypoints in 118.276 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!135
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 90.5148 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1305 keypoints in 128.572 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!134
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 91.3208 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1370 keypoints in 129.968 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!139
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 90.7076 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1396 keypoints in 127.479 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!136
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 82.8384 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1382 keypoints in 135.757 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!147
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 84.0029 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1463 keypoints in 118.906 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!156
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 77.0815 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : Size of Ring buffer2
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : File in Ring buffer../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n=1422 keypoints in 137.904 ms
+ NOTE: Keypoints Restricted to box of preceding vehicle!135
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 97.1573 ms
+#3 : EXTRACT DESCRIPTORS done
+#descriptor class :DES_HOG
+switching to L2_NORM for DES_HOG
+#4 : MATCH KEYPOINT DESCRIPTORS done
+HARRIS:( 9,11,14,13,16,13,12,17,17, )( 11,13,16,17,23,17,14,27,24, )( 12,10,14,14,18,14,10,19,18, )( -1,-1,-1,-1,-1,-1,-1,-1,-1, )( 12,13,16,17,23,23,13,24,24, )
+SHITOMASI:( 94,88,78,87,83,78,83,86,79, )( 104,102,96,100,102,94,96,103,94, )( 86,90,83,87,85,79,80,86,82, )( -1,-1,-1,-1,-1,-1,-1,-1,-1, )( 110,108,102,101,98,98,93,105,95, )
+FAST:( 92,97,96,96,79,104,104,96,94, )( 110,116,108,121,98,115,118,117,112, )( 92,93,84,94,82,96,100,98,99, )( -1,-1,-1,-1,-1,-1,-1,-1,-1, )( 112,115,104,114,106,112,118,112,100, )
+BRISK:( 168,169,157,170,171,186,174,167,184, )( 155,167,155,161,156,181,165,170,170, )( 154,173,153,168,158,181,169,173,165, )( -1,-1,-1,-1,-1,-1,-1,-1,-1, )( 177,187,171,177,168,190,193,173,181, )
+ORB:( 72,73,78,83,78,89,88,83,84, )( 63,69,71,82,88,96,90,88,84, )( 37,35,43,45,43,51,48,45,49, )( -1,-1,-1,-1,-1,-1,-1,-1,-1, )( 63,78,79,78,79,92,89,90,88, )
+AKAZE:( 134,124,129,128,130,132,142,144,141, )( 128,128,126,118,129,131,136,136,143, )( 123,128,128,121,122,133,144,145,135, )( 135,138,132,126,128,146,147,149,148, )( 132,134,129,136,136,147,147,153,149, )
+SIFT:( 63,64,60,65,59,65,64,67,79, )( -1,-1,-1,-1,-1,-1,-1,-1,-1, )( 64,70,62,65,59,60,64,65,79, )( -1,-1,-1,-1,-1,-1,-1,-1,-1, )( 81,79,83,92,90,82,82,100,101, )
+25.1536 25.6133 69.0135 -1 34.6367 
+14.2393 13.3917 58.8476 -1 35.6041 
+3.083 2.74396 48.5129 -1 25.2337 
+428.917 434.797 473.91 -1 480.029 
+10.0547 14.4018 55.2179 -1 75.8517 
+105.509 109.54 152.257 193.157 137.213 
+159.724 -1 207.611 -1 235.061 
