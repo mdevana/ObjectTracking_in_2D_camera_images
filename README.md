@@ -46,7 +46,7 @@ The string det_type and des_type are checked if their values matches anyone of t
             detKeypointsModern(keypoints, imgGray,detectorType, false,ctime_detection);
         }
 ```
-While Shi-Tomasi and Harris have their own function calls, other algortihms are clustered into a single function call detKeypointsModern(). Inside this function, corresponding call to respective algorithms are made as shown below. 
+While Shi-Tomasi and Harris have their own function calls, other algortihms are clustered into a single function call detKeypointsModern(). The function is implemented in matching2D_Student.cpp. Inside this function, corresponding call to respective algorithms are made as shown below. 
 
 ```
  if (detectorType.compare("FAST") == 0){
