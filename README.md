@@ -11,6 +11,16 @@ The goal of this project is to build a collision detection system.  I have built
 ## Data Buffer Optimization
 Since computer vision algorithms will be deployed in mobile hardware with limited resources, optimizing  the amount of data held in memory is of significant importance. For this purpose, i have implemented a data buffer modeled based on Queue data structure. Here the first image to enter will also leave first to accommodate next image and maintain a constant queue size, in this case 2.
 
+```
+        DataFrame frame;
+        frame.cameraImg = imgGray;
+        frame.imgName = imgFullFilename;
+        if (dataBuffer.size() >= dataBufferSize){
+            dataBuffer.erase(dataBuffer.begin());
+        }
+        dataBuffer.push_back(frame);
+```
+
 
 
 
