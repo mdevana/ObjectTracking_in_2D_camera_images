@@ -253,6 +253,8 @@ bool crossCheck = false;
     }
 ```
 
+## Keypoint size and distribution for all detectors
+
 <img src="output_images/image_kpts0_HARRIS_BRISK.png" width="820" height="248" />
 <img src="output_images/image_kpts0_SHITOMASI_BRISK.png" width="820" height="248" />
 <img src="output_images/image_kpts0_FAST_BRISK.png" width="820" height="248" />
@@ -261,6 +263,9 @@ bool crossCheck = false;
 <img src="output_images/image_kpts0_AKAZE_AKAZE.png" width="820" height="248" />
 <img src="output_images/image_kpts0_SIFT_BRISK.png" width="820" height="248" />
 
+## Keypoints size for all detector / descriptor combination
+
+## Computation time for detector / descriptor combination
 
 <img src="output_images/image_keymatch0_1_FAST_BRISK.png" width="820" height="248" />
 <img src="output_images/image_keymatch0_1_FAST_ORB.png" width="820" height="248" />
