@@ -256,7 +256,7 @@ bool crossCheck = false;
 ## Keypoint size and distribution for all detectors (MP 7)
 
 
-<img src="output_images/MP7_Keypoints.PNG" width="820" height="248" />
+<img src="output_images/MP7_Keypoints.PNG" width="400" height="248" />
 
 <img src="output_images/image_kpts0_HARRIS_BRISK.png" width="820" height="248" />
 <img src="output_images/image_kpts0_SHITOMASI_BRISK.png" width="820" height="248" />
@@ -268,11 +268,11 @@ bool crossCheck = false;
 
 ## Keypoints size for all detector / descriptor combination (MP 8)
 
-<img src="output_images/MP8_Keypoint_matches.PNG" width="820" height="248" />
+<img src="output_images/MP8_Keypoint_matches.PNG" width="400" height="248" />
 
 ## Computation time for detector / descriptor combination (MP 9)
 
-<img src="output_images/MP9_computation_time.JPG" width="820" height="248" />
+<img src="output_images/MP9_computation_time.JPG" width="400" height="248" />
 
 <img src="output_images/image_keymatch0_1_FAST_BRISK.png" width="820" height="248" />
 <img src="output_images/image_keymatch0_1_FAST_ORB.png" width="820" height="248" />
