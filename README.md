@@ -1,6 +1,6 @@
 ### 2D Feature Tracking in Camera Images for Sensor Fusion
 
-<img src="images/keypoints.png" width="820" height="248" />
+<img src="output_images/image_kpts0_FAST_BRISK.png" width="820" height="248" />
 
 ## Goal
 The goal of this project is to build a collision detection system.  I have built the feature tracking part and test various detector / descriptor combinations to see which ones perform best. 
