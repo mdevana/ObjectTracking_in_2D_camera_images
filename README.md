@@ -20,6 +20,95 @@ Since computer vision algorithms will be deployed in mobile hardware with limite
         }
         dataBuffer.push_back(frame);
 ```
+## Keypoint detection Algorithm selection
+The computer vision library provides various algorithms to detect keypoint in images. I have selected and tested following algorithms. Harris, Shi-Tomasi, FAST, ORB, AKAZE and SIFT. 
+
+I have developed dual mode to run my program. If the variable is_single_run is set to true, then values set to the string det_type and des_type will be considered. If the value of is_single_run is false, then all combination of detection and descriptor types will used and performance analysis will be conducted. Please set the variable to true, if you want to use your own combination
+```
+    bool is_single_run = true;
+    string det_type = "FAST"; // Detector Type
+    string des_type = "ORB";// Descriptor Type
+```
+
+The string det_type and des_type are checked if their values matches anyone of the algorithms is implemented and the corresponding call is made.
+
+```
+ if (detectorType.compare("SHITOMASI") == 0)
+        {
+            detKeypointsShiTomasi(keypoints, imgGray, false,ctime_detection);
+        }
+        else if(detectorType.compare("HARRIS") == 0)
+        {
+            detKeypointsHarris(keypoints, imgGray, false,ctime_detection);
+        }
+        else if( (detectorType.compare("FAST") == 0) || (detectorType.compare("BRISK") == 0) || (detectorType.compare("ORB") == 0) || (detectorType.compare("AKAZE") == 0) || (detectorType.compare("SIFT") == 0) )
+        {
+            detKeypointsModern(keypoints, imgGray,detectorType, false,ctime_detection);
+        }
+```
+While Shi-Tomasi and Harris have their own function calls, other algortihms are clustered into a single function call detKeypointsModern(). Inside this function, corresponding call to respective algorithms are made as shown below. 
+
+```
+ if (detectorType.compare("FAST") == 0){
+
+        t = (double)cv::getTickCount();
+        cv::Ptr<cv::FastFeatureDetector> fast_detect = cv::FastFeatureDetector::create(30,true);
+        fast_detect->detect(img,keypoints);
+        t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+        cout << "FAST detection with n=" << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
+
+    }
+
+    else if (detectorType.compare("BRISK") == 0){
+
+        t = (double)cv::getTickCount();
+        cv::Ptr<cv::FeatureDetector> detector = cv::BRISK::create();
+        detector->detect(img,keypoints);
+        t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+        cout << "BRISK detection with n=" << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
+
+    }
+
+    else if (detectorType.compare("ORB") == 0){
+
+        t = (double)cv::getTickCount();
+        cv::Ptr<cv::FeatureDetector> detector = cv::ORB::create();
+        detector->detect(img,keypoints);
+        t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+        cout << "ORB detection with n=" << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
+
+    }
+
+    else if (detectorType.compare("AKAZE") == 0){
+
+        t = (double)cv::getTickCount();
+        cv::Ptr<cv::FeatureDetector> detector = cv::AKAZE::create();
+        detector->detect(img,keypoints);
+        t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+        cout << "AKAZE detection with n=" << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
+
+    }
+    else if (detectorType.compare("SURF") == 0){
+
+
+        int minHessian=400;
+        t = (double)cv::getTickCount();
+        cv::Ptr<cv::FeatureDetector> detector = cv::xfeatures2d::SURF::create(minHessian);
+        detector->detect(img,keypoints);
+        t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+        cout << "SURF detection with n=" << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
+
+    }
+    else if (detectorType.compare("SIFT") == 0){
+
+        t = (double)cv::getTickCount();
+        cv::Ptr<cv::FeatureDetector> detector = cv::xfeatures2d::SIFT::create();
+        detector->detect(img,keypoints);
+        t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+        cout << "SIFT detection with n=" << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
+    }
+
+```
 
 
 
