@@ -134,9 +134,11 @@ Since project scope is restricted to detecting the vehicle at the front, the key
 ## Keypoint Descriptors
 Keypoint descriptor algorithms like BRISK, ORB, FREAK, AKAZE and SIFT are implemented in this project.  However some descriptors work only with a specfic detector. In the combination availabe in this project, AKAZE descriptor can only work with keypoint detected by AKAZE detector. Similairy , ORB descriptor will not work with SIFT Keypoints. These restrictions are also coded in this project. The function calls to respective descriptor is made based on the string value des_type. 
 
-A general function call is made in MidTermProject_Camera_Student.cpp by passing the keypoints detected, image, descriptor type to be used. The extracted descriptor and the time taken to execute the extraction process, is then returned back via descriptors and ctime_desextract.
+A general function call is made in MidTermProject_Camera_Student.cpp by passing the keypoints detected, image, descriptor type to be used. The extracted descriptor and the time taken to execute the extraction process, is then returned back via references to descriptors and ctime_desextract. The descriptor is then assigned to the last DataFrame
 ```
 descKeypoints((dataBuffer.end() - 1)->keypoints, (dataBuffer.end() - 1)->cameraImg, descriptors, descriptorType,ctime_desextract);
+
+(dataBuffer.end() - 1)->descriptors = descriptors;
 ```
 In the matching2D_Student.cpp, the function to select the right extractor and execution is coded. Finally , the descriptor and the execution time is passed back as reference.
 
@@ -190,6 +192,65 @@ In the matching2D_Student.cpp, the function to select the right extractor and ex
     compute_time = t * 1000 / 1.0;
     cout << descriptorType << " descriptor extraction in " << 1000 * t / 1.0 << " ms" << endl;
 
+```
+
+## Descriptor Matching
+
+The type of matcher to be used is available in string matcherType. Brute Force matching and FLANN matching are implemented. The selector type is decided by the variable selectorType. Availabe options here are Nearest neighbour (SEL_NN) and k-nearest neighbour (SEL_KNN). Descriptor Type is required to set if binary descriptor or HOG (Histogram of Gradients) descripor is used. In this project, SIFT is HOG based descriptor.
+```
+            string matcherType = "MAT_BF";        // MAT_BF, MAT_FLANN
+            string selectorType = "SEL_KNN";       // SEL_NN, SEL_KNN
+            string descriptorType = descriptor_class[desIndex]; // DES_BINARY, DES_HOG
+```
+
+In the matching2D_Student.cpp, the function matchDescriptors implements the matching process. The matcherType is first selected. For  Brute Force matching, default distance normaliser Hamming is used. However for HOG descriptor, L2 normalisation is used. The respective call to either Nearest Neighbour or K- Nearest Neighbour is used with fixed value of 2 neighbours. The ratio threshold of 0.8 is used to choose a match.
+
+```
+bool crossCheck = false;
+    cv::Ptr<cv::DescriptorMatcher> matcher;
+
+    if (matcherType.compare("MAT_BF") == 0)
+    {
+        int normType = cv::NORM_HAMMING;
+        
+        if (descriptorType=="DES_HOG"){
+            normType = cv::NORM_L2;
+            cout<<"switching to L2_NORM for "<< descriptorType<<endl;
+
+        }
+            
+        matcher = cv::BFMatcher::create(normType, crossCheck);
+    }
+    else if (matcherType.compare("MAT_FLANN") == 0)
+    {
+        if ( descSource.type() != CV_32F ){
+            descSource.convertTo(descSource,CV_32F);
+            descRef.convertTo(descRef,CV_32F);
+        }
+        matcher = cv::FlannBasedMatcher::create();
+    }
+
+    // perform matching task
+    if (selectorType.compare("SEL_NN") == 0)
+    { // nearest neighbor (best match)
+
+        matcher->match(descSource, descRef, matches); // Finds the best match for each descriptor in desc1
+    }
+    else if (selectorType.compare("SEL_KNN") == 0)
+    { // k nearest neighbors (k=2)
+        vector<vector<cv::DMatch>> knn_matches;
+        matcher->knnMatch(descSource, descRef, knn_matches,2);
+
+
+        const float ratio_threshold=0.8f;
+        for ( size_t i=0; i<knn_matches.size();i++){
+            float ratio = knn_matches[i][0].distance / knn_matches[i][1].distance;
+            if ( ratio < ratio_threshold )
+                matches.push_back(knn_matches[i][0]);
+
+        }
+        
+    }
 ```
 
 
