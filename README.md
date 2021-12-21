@@ -266,7 +266,7 @@ bool crossCheck = false;
 <img src="output_images/image_kpts0_AKAZE_AKAZE.png" width="820" height="248" />
 <img src="output_images/image_kpts0_SIFT_BRISK.png" width="820" height="248" />
 
-## Keypoints size for all detector / descriptor combination (MP 8)
+## Keypoints macthes for all detector / descriptor combination (MP 8)
 
 <img src="output_images/MP8_Keypoint_matches.PNG" width="400" height="248" />
 
