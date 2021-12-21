@@ -18,7 +18,7 @@ Performance Evaluation: Compare and evaluate which combination of algorithms per
 
 
 ## Data Buffer Optimization (MP 1)
-Since computer vision algorithms will be deployed in mobile hardware with limited resources, optimizing  the amount of data held in memory is of significant importance. For this purpose, i have implemented a data buffer modeled based on Queue data structure. Here the first image to enter will also leave first to accommodate next image and maintain a constant queue size, in this case 2.
+Since computer vision algorithms will be deployed in mobile hardware with limited resources, optimizing  the amount of data held in memory is of significant importance. For this purpose, I have implemented a data buffer modeled based on Queue data structure. Here, the first image to enter will also leave first to accommodate next image and maintain a constant queue size, in this case 2.
 
 ```
         DataFrame frame;
@@ -30,7 +30,7 @@ Since computer vision algorithms will be deployed in mobile hardware with limite
         dataBuffer.push_back(frame);
 ```
 ## Keypoint Detection Algorithm Selection (MP 2)
-The computer vision library provides various algorithms to detect keypoint in images. I have selected and tested following algorithms. Harris, Shi-Tomasi, FAST, ORB, AKAZE and SIFT. 
+The computer vision library provides various algorithms to detect keypoint in images. I have selected and tested the following algorithms. Harris, Shi-Tomasi, FAST, ORB, AKAZE and SIFT. 
 
 I have developed dual mode to run my program. If the variable is_single_run is set to true, then values set to the string det_type and des_type will be considered. If the value of is_single_run is false, then all combination of detection and descriptor types will used and performance analysis will be conducted. Please set the variable to true, if you want to use your own combination
 ```
@@ -39,7 +39,7 @@ I have developed dual mode to run my program. If the variable is_single_run is s
     string des_type = "ORB";// Descriptor Type
 ```
 
-The string det_type and des_type are checked if their values matches anyone of the algorithms is implemented and the corresponding call is made.
+The string det_type and des_type are checked if their values matches anyone of the algorithms is implemented, and the corresponding call is made.
 
 ```
  if (detectorType.compare("SHITOMASI") == 0)
@@ -55,7 +55,7 @@ The string det_type and des_type are checked if their values matches anyone of t
             detKeypointsModern(keypoints, imgGray,detectorType, false,ctime_detection);
         }
 ```
-While Shi-Tomasi and Harris have their own function calls, other algortihms are clustered into a single function call detKeypointsModern(). The function is implemented in matching2D_Student.cpp. Inside this function, corresponding call to respective algorithms are made as shown below. 
+While Shi-Tomasi and Harris have their own function calls, other algorithms are clustered into a single function call detKeypointsModern(). The function is implemented in matching2D_Student.cpp. Inside this function, corresponding call to respective algorithms are made as shown below. 
 
 ```
  if (detectorType.compare("FAST") == 0){
@@ -120,7 +120,7 @@ While Shi-Tomasi and Harris have their own function calls, other algortihms are 
 ```
 
 ## Keypoint Removal (MP 3)
-Since project scope is restricted to detecting the vehicle at the front, the keypoints detected on front vehicles are alone considered for further processing. The variable bFocusOnVehicle should be set to true for keypoint restriction on Front vehicle. The bounding box for front vehicle is provided by the cv::Rect(). By looping through all all the detected keypoints and adding only the ones which fall into the box into a fresh vector, the keypoints are seperated. The inbuilt function of cv::Rect contains() can also be used to check if the keypoints fall into bounding box. Here , i have checked it manually.
+Since project scope is restricted to detecting the vehicle at the front, the keypoints detected on front vehicles are alone considered for further processing. The variable bFocusOnVehicle should be set to true for keypoint restriction on Front vehicle. The bounding box for front vehicle is provided by the cv::Rect(). By looping through all the detected keypoints and adding only the ones which fall into the box into a fresh vector, the keypoints are seperated. The inbuilt function of cv::Rect contains() can also be used to check if the keypoints fall into the bounding box. Here, I have checked it manually.
 ```
         bool bFocusOnVehicle = true;
         cv::Rect vehicleRect(535, 180, 180, 150);
@@ -141,7 +141,7 @@ Since project scope is restricted to detecting the vehicle at the front, the key
 ```
 
 ## Keypoint Descriptors (MP 4)
-Keypoint descriptor algorithms like BRISK, ORB, FREAK, AKAZE and SIFT are implemented in this project.  However some descriptors work only with a specfic detector. In the combination availabe in this project, AKAZE descriptor can only work with keypoint detected by AKAZE detector. Similairy , ORB descriptor will not work with SIFT Keypoints. These restrictions are also coded in this project. The function calls to respective descriptor is made based on the string value des_type. 
+Keypoint descriptor algorithms like BRISK, ORB, FREAK, AKAZE and SIFT are implemented in this project.  However, some descriptors work only with a specfic detector. In the combination availabe in this project, AKAZE descriptor can only work with keypoint detected by AKAZE detector. Similarly, ORB descriptor will not work with SIFT Keypoints. These restrictions are also coded in this project. The function calls to respective descriptor is made based on the string value des_type. 
 
 A general function call is made in MidTermProject_Camera_Student.cpp by passing the keypoints detected, image, descriptor type to be used. The extracted descriptor and the time taken to execute the extraction process, is then returned back via references to descriptors and ctime_desextract. The descriptor is then assigned to the last DataFrame
 ```
