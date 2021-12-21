@@ -261,12 +261,25 @@ bool crossCheck = false;
 As seen from the statistics , BRISK detector detects the maximum number of keypoints. AKAZE and FAST detects 
 in the next maximum number of keypoints.
 
+Keypoints detected by Harris detector
 <img src="output_images/image_kpts0_HARRIS_BRISK.png" width="820" height="248" />
+
+Keypoints detected by Shi Tomasi detector
 <img src="output_images/image_kpts0_SHITOMASI_BRISK.png" width="820" height="248" />
+
+Keypoints detected by FAST detector
 <img src="output_images/image_kpts0_FAST_BRISK.png" width="820" height="248" />
+
+Keypoints detected by BRISK detector
 <img src="output_images/image_kpts0_BRISK_BRISK.png" width="820" height="248" />
+
+Keypoints detected by ORB detector
 <img src="output_images/image_kpts0_ORB_BRISK.png" width="820" height="248" />
+
+Keypoints detected by AKAZE detector
 <img src="output_images/image_kpts0_AKAZE_AKAZE.png" width="820" height="248" />
+
+Keypoints detected by SIFT detector
 <img src="output_images/image_kpts0_SIFT_BRISK.png" width="820" height="248" />
 
 ## Keypoints macthes for all detector / descriptor combination (MP 8)
