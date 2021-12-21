@@ -3,9 +3,18 @@
 <img src="output_images/image_kpts0_FAST_BRISK.png" width="820" height="248" />
 
 ## Goal
-The goal of this project is to build a collision detection system.  I have built the feature tracking part and tested various detector / descriptor combinations to see which ones perform best. 
+The goal of this project is to build a collision detection system by tracking the features in a image. I have built the feature tracking part and implemented various detector / descriptor combinations and matching algorithms to see which ones perform best. 
 
 ## Introduction
+The feature tracking project consists of four parts:
+
+The Data Buffer: This consists of loading the images, setting up the data structure, and put everything into the data buffer.
+
+Keypoint Detection: Integrate several keypoint detectors, such as HARRIS, FAST, BRISK, ORB, AKAZE, and SIFT, and compare them to each other based on the number of key points and speed.
+
+Descriptor Extraction & Matching: Extract the descriptors and match them using the brute-force and FLANN approach.
+
+Performance Evaluation: Compare and evaluate which combination of algorithms perform the best concerning performance measurement parameters.
 
 
 ## Data Buffer Optimization (MP 1)
