@@ -3,7 +3,7 @@
 <img src="output_images/image_kpts0_FAST_BRISK.png" width="820" height="248" />
 
 ## Goal
-The goal of this project is to build a collision detection system.  I have built the feature tracking part and test various detector / descriptor combinations to see which ones perform best. 
+The goal of this project is to build a collision detection system.  I have built the feature tracking part and tested various detector / descriptor combinations to see which ones perform best. 
 
 ## Introduction
 
