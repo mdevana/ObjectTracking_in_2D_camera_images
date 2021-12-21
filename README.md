@@ -20,7 +20,7 @@ Since computer vision algorithms will be deployed in mobile hardware with limite
         }
         dataBuffer.push_back(frame);
 ```
-## Keypoint detection Algorithm selection
+## Keypoint Detection Algorithm Selection
 The computer vision library provides various algorithms to detect keypoint in images. I have selected and tested following algorithms. Harris, Shi-Tomasi, FAST, ORB, AKAZE and SIFT. 
 
 I have developed dual mode to run my program. If the variable is_single_run is set to true, then values set to the string det_type and des_type will be considered. If the value of is_single_run is false, then all combination of detection and descriptor types will used and performance analysis will be conducted. Please set the variable to true, if you want to use your own combination
@@ -110,6 +110,28 @@ While Shi-Tomasi and Harris have their own function calls, other algortihms are 
 
 ```
 
+## Keypoint Removal
+Since project scope is restricted to detecting the vehicle at the front, the keypoints detected on front vehicles are alone considered for further processing. The variable bFocusOnVehicle should be set to true for keypoint restriction on Front vehicle. The bounding box for front vehicle is provided by the cv::Rect(). By looping through all all the detected keypoints and adding only the ones which fall into the box into a fresh vector, the keypoints are seperated. The inbuilt function of cv::Rect can also be used to check if the keypoints fall into bounding box. Here , i have checked it manually.
+```
+        bool bFocusOnVehicle = true;
+        cv::Rect vehicleRect(535, 180, 180, 150);
+        if (bFocusOnVehicle)
+        {
+            vector<cv::KeyPoint> filteredPts;
+            float a = vehicleRect.x;
+            for (cv::KeyPoint kp:keypoints){
+                if ( ( (kp.pt.x > vehicleRect.x ) && (kp.pt.x < ( vehicleRect.x + vehicleRect.width ) ) ) && ( (kp.pt.y > vehicleRect.y ) && (kp.pt.y < ( vehicleRect.y + vehicleRect.height ) ) ) ){
+                    filteredPts.push_back(kp);
+                }
+                
+                
+            }
+            keypoints = filteredPts;
+            cout << " NOTE: Keypoints Restricted to box of preceding vehicle!" << keypoints.size()<<endl;
+        }
+```
+
+## Keypoint Descriptors
 
 
 
