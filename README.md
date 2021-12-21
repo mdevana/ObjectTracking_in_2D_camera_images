@@ -132,6 +132,67 @@ Since project scope is restricted to detecting the vehicle at the front, the key
 ```
 
 ## Keypoint Descriptors
+Keypoint descriptor algorithms like BRISK, ORB, FREAK, AKAZE and SIFT are implemented in this project.  However some descriptors work only with a specfic detector. In the combination availabe in this project, AKAZE descriptor can only work with keypoint detected by AKAZE detector. Similairy , ORB descriptor will not work with SIFT Keypoints. These restrictions are also coded in this project. The function calls to respective descriptor is made based on the string value des_type. 
+
+A general function call is made in MidTermProject_Camera_Student.cpp by passing the keypoints detected, image, descriptor type to be used. The extracted descriptor and the time taken to execute the extraction process, is then returned back via descriptors and ctime_desextract.
+```
+descKeypoints((dataBuffer.end() - 1)->keypoints, (dataBuffer.end() - 1)->cameraImg, descriptors, descriptorType,ctime_desextract);
+```
+In the matching2D_Student.cpp, the function to select the right extractor and execution is coded. Finally , the descriptor and the execution time is passed back as reference.
+
+```
+ cv::Ptr<cv::DescriptorExtractor> extractor;
+    if (descriptorType.compare("BRISK") == 0)
+    {
+
+        int threshold = 30;        // FAST/AGAST detection threshold score.
+        int octaves = 3;           // detection octaves (use 0 to do single scale)
+        float patternScale = 1.0f; // apply this scale to the pattern used for sampling the neighbourhood of a keypoint.
+
+        extractor = cv::BRISK::create(threshold, octaves, patternScale);
+    }
+    else if (descriptorType.compare("BRIEF") == 0)
+    {
+        extractor = cv::xfeatures2d::BriefDescriptorExtractor::create();
+        //extractor->compute(img,keypoints,descriptors);
+        
+    }
+    else if (descriptorType.compare("ORB") == 0)
+    {
+        extractor = cv::ORB::create();
+        //extractor->compute(img,keypoints,descriptors);
+        
+    }
+
+    else if (descriptorType.compare("FREAK") == 0)
+    {
+        extractor = cv::xfeatures2d::FREAK::create();
+        //extractor->compute(img,keypoints,descriptors);
+        
+    }
+    else if (descriptorType.compare("AKAZE") == 0)
+    {
+        extractor = cv::AKAZE::create();
+        //extractor->compute(img,keypoints,descriptors);
+        
+    }
+    else if (descriptorType.compare("SIFT") == 0)
+    {
+        extractor = cv::xfeatures2d::SIFT::create();
+        //extractor->compute(img,keypoints,descriptors);
+        
+    }
+
+    // perform feature description
+    double t = (double)cv::getTickCount();
+    extractor->compute(img, keypoints, descriptors);
+    t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+    compute_time = t * 1000 / 1.0;
+    cout << descriptorType << " descriptor extraction in " << 1000 * t / 1.0 << " ms" << endl;
+
+```
+
+
 
 
 
