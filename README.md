@@ -194,7 +194,7 @@ In the matching2D_Student.cpp, the function to select the right extractor and ex
 
 ```
 
-## Descriptor Matching
+## Descriptor Matching and Descriptor Ratio
 
 The type of matcher to be used is available in string matcherType. Brute Force matching and FLANN matching are implemented. The selector type is decided by the variable selectorType. Availabe options here are Nearest neighbour (SEL_NN) and k-nearest neighbour (SEL_KNN). Descriptor Type is required to set if binary descriptor or HOG (Histogram of Gradients) descripor is used. In this project, SIFT is HOG based descriptor.
 ```
