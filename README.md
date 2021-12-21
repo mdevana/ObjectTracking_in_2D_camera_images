@@ -111,7 +111,7 @@ While Shi-Tomasi and Harris have their own function calls, other algortihms are 
 ```
 
 ## Keypoint Removal
-Since project scope is restricted to detecting the vehicle at the front, the keypoints detected on front vehicles are alone considered for further processing. The variable bFocusOnVehicle should be set to true for keypoint restriction on Front vehicle. The bounding box for front vehicle is provided by the cv::Rect(). By looping through all all the detected keypoints and adding only the ones which fall into the box into a fresh vector, the keypoints are seperated. The inbuilt function of cv::Rect can also be used to check if the keypoints fall into bounding box. Here , i have checked it manually.
+Since project scope is restricted to detecting the vehicle at the front, the keypoints detected on front vehicles are alone considered for further processing. The variable bFocusOnVehicle should be set to true for keypoint restriction on Front vehicle. The bounding box for front vehicle is provided by the cv::Rect(). By looping through all all the detected keypoints and adding only the ones which fall into the box into a fresh vector, the keypoints are seperated. The inbuilt function of cv::Rect contains() can also be used to check if the keypoints fall into bounding box. Here , i have checked it manually.
 ```
         bool bFocusOnVehicle = true;
         cv::Rect vehicleRect(535, 180, 180, 150);
