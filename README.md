@@ -290,8 +290,18 @@ Keypoints detected by SIFT detector
 
 <img src="output_images/MP9_computation_time.JPG" width="400" height="248" />
 
+From the statistics, it is clearly evident, that FAST - BRISK and FAST - ORB have lowest computation time, 
+at the same time have reasonly number of keypoint matches followed by ORB - BRISK combination.
+My conclusion is to use FAST - BRISK or FAST - ORB combination for tracking in camera images.
+Note : All the values are averaged over all the images.
+
+Keypoint Matches using FAST - BRISK combination
 <img src="output_images/image_keymatch0_1_FAST_BRISK.png" width="820" height="248" />
+
+Keypoint Matches using FAST - ORB combination
 <img src="output_images/image_keymatch0_1_FAST_ORB.png" width="820" height="248" />
+
+Keypoint Matches using ORB - BRISK combination
 <img src="output_images/image_keymatch0_1_ORB_BRISK.png" width="820" height="248" />
 
 
