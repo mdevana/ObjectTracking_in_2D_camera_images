@@ -259,7 +259,7 @@ bool crossCheck = false;
 <img src="output_images/MP7_Keypoints.PNG" width="400" height="248" />
 
 As seen from the statistics , BRISK detector detects the maximum number of keypoints. AKAZE and FAST detects 
-the next maximum number of keypoints.
+the next maximum number of keypoints. The images below show the distribution of keypoints in the image for different detectors.
 
 Keypoints detected by Harris detector
 <img src="output_images/image_kpts0_HARRIS_BRISK.png" width="820" height="248" />
