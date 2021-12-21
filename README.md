@@ -5,6 +5,13 @@
 ## Goal
 The goal of this project is to build a collision detection system.  I have built the feature tracking part and test various detector / descriptor combinations to see which ones perform best. 
 
+## Introduction
+
+
+## Data Buffer Optimization
+Since computer vision algorithms will be deployed in mobile hardware with limited resources, optimizing  the amount of data held in memory is of significant importance. For this purpose, i have implemented a data buffer modeled based on Queue data structure. Here the first image to enter will also leave first to accommodate next image and maintain a constant queue size, in this case 2.
+
+
 
 
 
