@@ -286,6 +286,9 @@ Keypoints detected by SIFT detector
 
 <img src="output_images/MP8_Keypoint_matches.PNG" width="400" height="248" />
 
+BRISK - BRISK combination matched the maximum number of keypoints. As we see later, the FAST - BRISK , FAST-ORB combination
+match comparable number of keypoints at a very high speed (highlighted in Red)
+
 ## Computation time for detector / descriptor combination (MP 9)
 
 <img src="output_images/MP9_computation_time.JPG" width="400" height="248" />
